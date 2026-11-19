@@ -44,7 +44,6 @@ This one page is the whole course. The sketches are in the [`sketches`](sketches
   - [Extra 15: Bluetooth chat (Android only)](#extra-15-bluetooth-chat-android-only)
 - [When it breaks](#when-it-breaks)
 - [Cheat sheet](#cheat-sheet)
-- [Credits](#credits)
 
 ## How this course works
 
