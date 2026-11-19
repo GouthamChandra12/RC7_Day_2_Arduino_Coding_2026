@@ -2432,8 +2432,6 @@ void loop() {
 
 ## Credits
 
-The level order for the first part is adapted from the Pervasive Urbanism Arduino coding tutorial (Skills Module 2, Prosthetic Clouds, RC15, The Bartlett School of Architecture).
-
 The sketches are rewritten for the ESP32. The games, challenges, touch, library and Wi-Fi levels are new for this course.
 
 Weather data in the extras comes from [Open-Meteo](https://open-meteo.com).
