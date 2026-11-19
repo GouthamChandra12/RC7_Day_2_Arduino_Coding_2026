@@ -1302,22 +1302,12 @@ void loop() {
 - Let the loser pick a new top speed: make the wait shorter after each round.
 - Show the scores on the web page from Level 12.
 
-### Or build your own
-
-Pick one. You have the rest of the session.
-
-- **Touch the web page.** Take the Level 12 website and make the dice roll when you touch pin 4, not only when someone presses the button.
-- **Room chat.** Use the ESP-NOW sketch from the extras to message the board next to you.
-- **Signal map.** Log the Wi-Fi strength at six places in the room and plot the numbers.
-- **Your own game.** Use any idea from the cheat sheet. A rule, a score and a way to lose.
-
-When time is up, show one neighbour what you made.
 
 ---
 
-## Extras: show them if there is time
+## Extras: 
 
-These are short demos and games. Pick the ones that fit the room and the time you have. Each takes 3 to 10 minutes to show. They use the same parts as the levels, with the board and the Serial Monitor.
+These are short demos and games. 
 
 | # | Extra | Time | Needs | Teaches |
 |---|---|---|---|---|
